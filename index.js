@@ -23,3 +23,5 @@ function calculatesFarePrice(start, destination){
     }
 
 }
+
+let newCommit = "Hopefully it works!";
